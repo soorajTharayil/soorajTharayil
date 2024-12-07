@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @soorajTharayil
 - 👀 I’m interested in web development and latest web technologies
-- 🌱 I’m currently learning Java full stack
+- 🌱 My key contributions include developing and optimizing applications like Efeedor, a patient feedback system that improves healthcare management by providing real-time insights into patient satisfaction.
+- 🌱  I am proficient in backend technologies, API development, and creating responsive UI designs using Bootstrap, HTML, CSS, and JavaScript.
+- 🌱 I have implemented various communication systems, such as sending SMS via the DigiMils UCC DLT Platform, email alerts using ZeptoMail with Zoho Mail, and WhatsApp notifications through AiSensy
 - 📫 Reach me at sooraj114ts@gmail.com
 <!---
 soorajTharayil/soorajTharayil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
